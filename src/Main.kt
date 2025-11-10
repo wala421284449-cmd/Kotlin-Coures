@@ -45,4 +45,5 @@ fun main() {
         sum +=i
     }
     println("The sum of numbers from 1 to $num is ${sum}")
+    println("hello")
 }
